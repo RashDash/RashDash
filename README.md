@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/ashwani-k-ios-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-Ashwani-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=RashDash&style=flat-square&color=blue" width="100"/>
@@ -19,7 +19,6 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashwani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-k-ios-developer/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
