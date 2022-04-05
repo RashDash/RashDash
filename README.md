@@ -8,7 +8,8 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=RashDash&style=flat-square&color=blue" width="100"/>
 </div>
----
+</div>
+</div>
 
 ### :technologist: About Me :
 I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
